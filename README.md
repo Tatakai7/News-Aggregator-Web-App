@@ -2,7 +2,7 @@
 
 
 
- FIRST STEP IS YOU NEED TO CREATE AN NEWSAPI ACCOUNT ON [newsapi.org]
+ FIRST STEP IS YOU NEED TO CREATE AN NEWSAPI ACCOUNT ON [newsapi.org](newsapi.org)
  THEN YOU NEED TO CREATE A .env file AND PUT YOUR API KEY
 ## Available Scripts
 
