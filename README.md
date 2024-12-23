@@ -1,5 +1,9 @@
 ----- NEWS AGGREGATOR WEB APP -----
 
+
+
+ FIRST STEP IS YOU NEED TO CREATE AN NEWSAPI ACCOUNT ON [newsapi.org]
+ THEN YOU NEED TO CREATE A .env file AND PUT YOUR API KEY
 ## Available Scripts
 
 In the project directory, you can run:
